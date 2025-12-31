@@ -1,9 +1,7 @@
-## Fancy seeing you here! <img src="" width="30">
-
-I am MD. Naif Mahmud, people call me naif, a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I am a tech enthusiast.
-
-
 <h4>Hi There</h4>
+
+## Fancy seeing you here! <img src="" width="30">
+I am MD. Naif Mahmud, people call me naif, a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I am a tech enthusiast.Currently i'm working on:
 
 🌱  I’m currently exploring "The world of web development"
 
