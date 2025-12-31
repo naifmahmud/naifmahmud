@@ -6,12 +6,12 @@
 
 💬  Ask me about anything related to Javascript/React/Express
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Fancy seeing you here! <img src="" width="30">
 
 I am MD. Naif Mahmud, people call me naif, a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I am a tech enthusiast.Feel free to connect with me here:
 
-[![Linkedin Badge](https://www.linkedin.com/in/naif-mahmud-8ba9a1293/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/naif-mahmud-8ba9a1293/)]
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)]
 
 ##Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
