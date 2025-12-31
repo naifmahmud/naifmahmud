@@ -7,6 +7,8 @@ A tech enthusiast on the way to find his own ikigai.🍃
 
 🌱  I’m currently exploring "The world of web development"
 
+🌱 Exploring Next.js
+
 🔭  I’m currently working on something cool 😉
 
 💬  Ask me about anything related to Javascript/React/Express
@@ -22,3 +24,5 @@ A tech enthusiast on the way to find his own ikigai.🍃
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
