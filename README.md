@@ -1,3 +1,8 @@
+## Fancy seeing you here! <img src="" width="30">
+
+I am MD. Naif Mahmud, people call me naif, a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I am a tech enthusiast.
+
+
 <h1>Hi There</h1>
 
 🌱  I’m currently exploring "The world of web development"
@@ -5,13 +10,6 @@
 🔭  I’m currently working on something cool 😉
 
 💬  Ask me about anything related to Javascript/React/Express
-
-## Fancy seeing you here! <img src="" width="30">
-
-I am MD. Naif Mahmud, people call me naif, a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/). I am a tech enthusiast.Feel free to connect with me here:
-
-[![Linkedin Badge](https://www.linkedin.com/in/naif-mahmud-8ba9a1293)
-[![Gmail Badge]](mailto:naifmahmud777@gmail.com)]
 
 ##Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,5 +21,3 @@ I am MD. Naif Mahmud, people call me naif, a current computer science student fr
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
