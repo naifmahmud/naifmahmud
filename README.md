@@ -1,1 +1,5 @@
-🍂I'm exploring "The world of web development"
+**Hi THere**👋
+
+🌱  I’m currently exploring "The world of web development"
+🔭  I’m currently working on something cool 😉
+💬  Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
