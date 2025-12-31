@@ -13,8 +13,7 @@ I am MD. Naif Mahmud, people call me naif, a current computer science student fr
 [![Linkedin Badge](https://www.linkedin.com/in/naif-mahmud-8ba9a1293/)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
-
-<h3>Things I code with</h3>
+##Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
