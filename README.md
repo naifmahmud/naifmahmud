@@ -11,7 +11,8 @@ I am MD. Naif Mahmud, people call me naif, a current computer science student fr
 
 💬  Ask me about anything related to Javascript/React/Express
 
-##Technologies
+## Technologies ⚙️
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
