@@ -1,5 +1,8 @@
 <h4>Hi There</h4>
 
+<img width="960" height="237" alt="Screenshot 2025-12-31 163127" src="https://github.com/user-attachments/assets/054133d1-b0f0-4c29-b7c3-38c7153fb93d" />
+
+
 ## Fancy seeing you here! 
 I am MD. Naif Mahmud, people call me naif,
 a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
