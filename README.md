@@ -1,6 +1,6 @@
 <h4>Hi There</h4>
 
-## Fancy seeing you here! <img src="" width="30">
+## Fancy seeing you here! 
 I am MD. Naif Mahmud, people call me naif,
 a current computer science student from [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 A tech enthusiast on the way to find his own ikigai.🍃
@@ -12,6 +12,9 @@ A tech enthusiast on the way to find his own ikigai.🍃
 🔭  I’m currently working on something cool 😉
 
 💬  Ask me about anything related to Javascript/React/Express
+
+##STATS
+[![Naif's GitHub stats](https://github-readme-stats.vercel.app/api?username=naifmahmud)](https://github.com/naifmahmud/github-readme-stats)
 
 ## Technologies ⚙️
 
