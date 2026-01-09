@@ -12,9 +12,9 @@ A tech enthusiast on the way to find his own ikigai.🍃
 🔭  I’m currently working on something cool 😉
 
 💬  Ask me about anything related to Javascript/React/Express
+## 📊 GitHub Stats
 
-##STATS
-[![Naif's GitHub stats](https://github-readme-stats.vercel.app/api?naifmahmud)](https://github.com/naifmahmud/github-readme-stats)
+![Naif's GitHub stats](https://github-readme-stats.vercel.app/api?username=naifmahmud&show_icons=true&theme=react)
 
 ## Technologies ⚙️
 
